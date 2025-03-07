@@ -1,1 +1,1 @@
-[View PDF](./GiordanoResume.pdf)
+(./GiordanoResume.pdf)
