@@ -1,1 +1,1 @@
-![PDF Page 1](./resume.png)
+![PDF Page 1](./image.png)
